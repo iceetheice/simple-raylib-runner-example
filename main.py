@@ -1,7 +1,7 @@
 from pyray import *
 import random
 
-init_window(300, 600, "raylib python")
+init_window(300, 600, "raylib runner")
 init_audio_device()
 
 scene = "game"
