@@ -1,2 +1,2 @@
 # simple-raylib-runner-game
-a runner game example using raylib and python
+a endless runner game example using raylib and python
